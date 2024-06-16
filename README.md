@@ -1,5 +1,13 @@
-<<<<<<< HEAD
-# React + Vite
+Hola Diego , espero este bien, Gracias por la info en relacion a redux .
+
+Te queria comentar que esta api de pokemon tiene ciertos problemas con varias fotos hay algunas que se ve y otras que no. 
+
+
+Publicacion en : 
+https://pokemon-44jowf3lu-williams-camacaro-s-projects.vercel.app/
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
